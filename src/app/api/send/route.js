@@ -9,8 +9,8 @@ export async function POST(req, res) {
   console.log(email, subject, message);
   try {
     const data = await resend.emails.send({
-      from: 'wrong@qq.com',
-      to: ['wrong@qq.com', 'wrong@qq.com'],
+      from: 'Acme <onboarding@resend.dev>',
+      to: ['delivered@resend.dev'],
       subject: subject,
       react: (
         <>
