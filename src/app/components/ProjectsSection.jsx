@@ -7,21 +7,21 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Airbnb Clone",
+    title: "AirHotel",
     description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
-    image: "/images/projects/Airbnb.png",
+    image: "/images/projects/AirHotel.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/EthanCh30/Airbnb-Clone",
+    gitUrl: "https://github.com/EthanCh30/AirHotel",
     previewUrl: "https://renthotel.vercel.app/",
   },
   {
     id: 2,
-    title: "Spotify Clone",
+    title: "MusicGo",
     description: "Next.js, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe",
-    image: "/images/projects/Spotify.png",
+    image: "/images/projects/MusicGo1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/EthanCh30/Spotify-Clone",
-    previewUrl: "https://spotify-clone-one-wine.vercel.app/",
+    gitUrl: "https://github.com/EthanCh30/MusicGo",
+    previewUrl: "https://musicgo-git-main-ethanch30s-projects.vercel.app/",
   },
   {
     id: 3,
