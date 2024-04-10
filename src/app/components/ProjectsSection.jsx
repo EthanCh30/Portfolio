@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "AirHotel",
-    description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
+    description: "Demo Email: test@gmail.com, Password: test",
     image: "/images/projects/AirHotel.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/AirHotel",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "MusicGo",
-    description: "Next.js, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe",
+    description: "zhiyunchen60@gmail.com, Password: 123456",
     image: "/images/projects/MusicGo1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/MusicGo",
@@ -59,6 +59,7 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Calculator",
     previewUrl: "https://ethanch30.github.io/Calculator/",
   },
+
 ];
 
 const ProjectsSection = () => {
