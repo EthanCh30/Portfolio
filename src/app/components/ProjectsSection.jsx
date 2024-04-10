@@ -32,34 +32,6 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Netflix-Clone",
     previewUrl: "https://netflix-clone-tau-pink.vercel.app/",
   },
-  {
-    id: 4,
-    title: "Sushi Restaurant",
-    description: "HTML, CSS, JavaScript",
-    image: "/images/projects/Sushi.png",
-    tag: ["All", "Web"],
-    gitUrl: "https://github.com/EthanCh30/sushi-restaurant",
-    previewUrl: "https://ethanch30.github.io/sushi-restaurant/",
-  },
-  {
-    id: 5,
-    title: "Random Quote",
-    description: "HTML, CSS, JavaScript",
-    image: "/images/projects/Random-Quote.png",
-    tag: ["All", "Web"],
-    gitUrl: "https://github.com/EthanCh30/Random-Quote",
-    previewUrl: "https://ethanch30.github.io/Random-Quote/",
-  },
-  {
-    id: 6,
-    title: "Calculator",
-    description: "HTML, CSS, JavaScript",
-    image: "/images/projects/Calculator.png",
-    tag: ["All", "Web"],
-    gitUrl: "https://github.com/EthanCh30/Calculator",
-    previewUrl: "https://ethanch30.github.io/Calculator/",
-  },
-
 ];
 
 const ProjectsSection = () => {
