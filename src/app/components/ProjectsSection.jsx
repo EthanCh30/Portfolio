@@ -6,7 +6,27 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
-    id: 1,
+    id: 8,
+    title: "Language-Learning-SaaS",
+    description: "Next.js, React, PostgresDB, Stripe",
+    image: "/images/projects/8.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/Language-Learning-SaaS",
+    previewUrl: "https://lingo-alpha-six.vercel.app/",
+  },
+
+  {
+    id: 7,
+    title: "AirHotel",
+    description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
+    image: "/images/projects/7.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/Mern-Blog",
+    previewUrl: "https://mern-blog-m3yk.onrender.com/",
+  },
+
+  {
+    id: 6,
     title: "AirHotel",
     description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
     image: "/images/projects/AirHotel.png",
@@ -15,7 +35,7 @@ const projectsData = [
     previewUrl: "https://renthotel.vercel.app/",
   },
   {
-    id: 2,
+    id: 5,
     title: "MusicGo",
     description: "Next.js, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe",
     image: "/images/projects/MusicGo1.png",
@@ -24,7 +44,7 @@ const projectsData = [
     previewUrl: "https://musicgo-git-main-ethanch30s-projects.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Netflix Clone",
     description: "React, Tailwind CSS, Next.js, Prisma, MongoDB, and NextAuth",
     image: "/images/projects/Netflix.png",
@@ -33,7 +53,7 @@ const projectsData = [
     previewUrl: "https://netflix-clone-tau-pink.vercel.app/",
   },
   {
-    id: 4,
+    id: 3,
     title: "Sushi Restaurant",
     description: "HTML, CSS, JavaScript",
     image: "/images/projects/Sushi.png",
@@ -42,7 +62,7 @@ const projectsData = [
     previewUrl: "https://ethanch30.github.io/sushi-restaurant/",
   },
   {
-    id: 5,
+    id: 2,
     title: "Random Quote",
     description: "HTML, CSS, JavaScript",
     image: "/images/projects/Random-Quote.png",
@@ -51,7 +71,7 @@ const projectsData = [
     previewUrl: "https://ethanch30.github.io/Random-Quote/",
   },
   {
-    id: 6,
+    id: 1,
     title: "Calculator",
     description: "HTML, CSS, JavaScript",
     image: "/images/projects/Calculator.png",
