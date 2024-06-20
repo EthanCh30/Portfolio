@@ -12,7 +12,7 @@ const projectsData = [
     image: "/images/projects/8.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Language-Learning-SaaS",
-    previewUrl: "https://lingo-alpha-six.vercel.app/",
+    previewUrl: "https://lingo-six6.vercel.app",
   },
 
   {
