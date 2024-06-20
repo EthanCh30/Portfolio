@@ -7,7 +7,7 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 8,
-    title: "Language-Learning-SaaS",
+    title: "Language-Learning",
     description: "Next.js, React, PostgresDB, Stripe",
     image: "/images/projects/8.png",
     tag: ["All", "Web"],
@@ -17,8 +17,8 @@ const projectsData = [
 
   {
     id: 7,
-    title: "AirHotel",
-    description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
+    title: "Blog",
+    description: "MongoDB, Express, React, Tailwind and Node.js",
     image: "/images/projects/7.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Mern-Blog",
@@ -27,7 +27,7 @@ const projectsData = [
 
   {
     id: 6,
-    title: "AirHotel",
+    title: "Hotel Booking",
     description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
     image: "/images/projects/AirHotel.png",
     tag: ["All", "Web"],
@@ -36,7 +36,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "MusicGo",
+    title: "Music Streming",
     description: "Next.js, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe",
     image: "/images/projects/MusicGo1.png",
     tag: ["All", "Web"],
@@ -45,7 +45,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Netflix Clone",
+    title: "Movie Streming",
     description: "React, Tailwind CSS, Next.js, Prisma, MongoDB, and NextAuth",
     image: "/images/projects/Netflix.png",
     tag: ["All", "Web"],
