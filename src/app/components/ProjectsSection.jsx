@@ -52,10 +52,40 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Netflix-Clone",
     previewUrl: "https://netflix-clone-tau-pink.vercel.app/",
   },
+
+
+  {
+    id: 9,
+    title: "FreeScribe",
+    description: "A speech recognition translation App",
+    image: "https://camo.githubusercontent.com/db6506e1a6c4a450c245d602e9966b6796781c57dc7de5c9e4a0902f5cd4c334/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31372f6e395436486471655a625234314a6b2e706e67",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/FreeScribe",
+    previewUrl: "https://freescribetranslate.netlify.app/",
+  },
+  {
+    id: 10,
+    title: "GymHeaven",
+    description: "A training plan generator",
+    image: "https://camo.githubusercontent.com/3ac46f8ec044249fe4ea735576906749062131b45df6e7552aeed38a6ec86494/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31372f717969554d774c436636335a3253342e706e67",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/Gym_App",
+    previewUrl: "https://gymheaven.netlify.app/",
+  },
+  {
+    id: 11,
+    title: "DailyWallpaper",
+    description: "Latest wallpapers from NASA",
+    image: "https://camo.githubusercontent.com/9040b0ae209992ecbe167468edcca6c6db552c3ff3d86f59994397813150064f/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31372f6b525346766155364e78654962746f2e706e67",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/Daily_Wallpaper",
+    previewUrl: "https://dailywallpaperfromnasa.netlify.app/",
+  },
+
   {
     id: 3,
     title: "Sushi Restaurant",
-    description: "HTML, CSS, JavaScript",
+    description: "Takeaway booking platform",
     image: "/images/projects/Sushi.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/sushi-restaurant",
@@ -64,7 +94,7 @@ const projectsData = [
   {
     id: 2,
     title: "Random Quote",
-    description: "HTML, CSS, JavaScript",
+    description: "Randomly generate famous quotes",
     image: "/images/projects/Random-Quote.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Random-Quote",
@@ -73,7 +103,7 @@ const projectsData = [
   {
     id: 1,
     title: "Calculator",
-    description: "HTML, CSS, JavaScript",
+    description: "Normal but beautiful calculator",
     image: "/images/projects/Calculator.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Calculator",
