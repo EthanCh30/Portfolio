@@ -7,14 +7,13 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 11,
-    title: "Language-Learning",
+    title: "Language Learning",
     description: "Next.js, React, PostgresDB, Stripe",
     image: "https://s2.loli.net/2024/07/17/JKOau4VkUQs9HNf.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Language-Learning-SaaS",
     previewUrl: "https://lingo-six6.vercel.app",
   },
-
   {
     id: 10,
     title: "Blog",
@@ -24,7 +23,6 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Mern-Blog",
     previewUrl: "https://mern-blog-m3yk.onrender.com/",
   },
-
   {
     id: 9,
     title: "Hotel Booking",
@@ -52,8 +50,6 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Netflix-Clone",
     previewUrl: "https://netflix-clone-tau-pink.vercel.app/",
   },
-
-
   {
     id: 6,
     title: "FreeScribe",
@@ -65,7 +61,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "GymHeaven",
+    title: "Gym Heaven",
     description: "A training plan generator",
     image: "https://camo.githubusercontent.com/3ac46f8ec044249fe4ea735576906749062131b45df6e7552aeed38a6ec86494/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31372f717969554d774c436636335a3253342e706e67",
     tag: ["All", "Web"],
@@ -74,14 +70,13 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "DailyWallpaper",
+    title: "Daily Wallpaper",
     description: "Latest wallpapers from NASA",
     image: "https://camo.githubusercontent.com/9040b0ae209992ecbe167468edcca6c6db552c3ff3d86f59994397813150064f/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31372f6b525346766155364e78654962746f2e706e67",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Daily_Wallpaper",
     previewUrl: "https://dailywallpaperfromnasa.netlify.app/",
   },
-
   {
     id: 3,
     title: "Sushi Restaurant",
@@ -109,7 +104,6 @@ const projectsData = [
     gitUrl: "https://github.com/EthanCh30/Calculator",
     previewUrl: "https://ethanch30.github.io/Calculator/",
   },
-
 ];
 
 const ProjectsSection = () => {
