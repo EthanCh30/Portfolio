@@ -6,7 +6,7 @@ import { motion, useInView } from "framer-motion";
 
 const projectsData = [
   {
-    id: 11,
+    id: 12,
     title: "Language Learning",
     description: "Next.js, React, PostgresDB, Stripe",
     image: "https://s2.loli.net/2024/07/17/JKOau4VkUQs9HNf.jpg",
@@ -15,7 +15,7 @@ const projectsData = [
     previewUrl: "https://lingo-six6.vercel.app",
   },
   {
-    id: 10,
+    id: 11,
     title: "Blog",
     description: "MongoDB, Express, React, Tailwind and Node.js",
     image: "https://s2.loli.net/2024/07/17/uiHtK13chOBP8EM.png",
@@ -24,7 +24,7 @@ const projectsData = [
     previewUrl: "https://mern-blog-m3yk.onrender.com/",
   },
   {
-    id: 9,
+    id: 10,
     title: "Hotel Booking",
     description: "React, Tailwind, Prisma, MongoDB, and NextAuth",
     image: "https://s2.loli.net/2024/07/17/wDQr3nXAOUqvR84.png",
@@ -33,7 +33,7 @@ const projectsData = [
     previewUrl: "https://renthotel.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Music Streming",
     description: "Next.js, React, Tailwind CSS, Supabase, PostgreSQL, and Stripe",
     image: "https://s2.loli.net/2024/07/17/ryf59MueiTqSmGb.png",
@@ -42,13 +42,22 @@ const projectsData = [
     previewUrl: "https://musicgo-git-main-ethanch30s-projects.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Movie Streming",
     description: "React, Tailwind CSS, Next.js, Prisma, MongoDB, and NextAuth",
     image: "https://s2.loli.net/2024/07/17/vlrB1cSHy6Ee4XR.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/EthanCh30/Netflix-Clone",
     previewUrl: "https://netflix-clone-tau-pink.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Social Media",
+    description: "Connect to the world",
+    image: "https://camo.githubusercontent.com/4716bd14a028583c0ff984b372ad79b6e81854c9b96852badeba7f999c92ac01/68747470733a2f2f73322e6c6f6c692e6e65742f323032342f30372f31392f7a4c4b7542375a6f564d6c785138642e706e67",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/EthanCh30/SocialMedia",
+    previewUrl: "https://social-media-chi-brown.vercel.app/",
   },
   {
     id: 6,
